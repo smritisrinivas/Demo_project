@@ -1,0 +1,17 @@
+{
+    "name": "loop_demo_project",
+    "version": "1.0.0",
+    "description": "The Demo Project",
+    "main": "app/main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^4.5.3",
+        "gulp": "^4.0.2",
+        "gulp-sass": "^4.1.0",
+        "jquery": "^3.5.1"
+    }
+}
